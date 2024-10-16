@@ -738,7 +738,7 @@ prefixed_base58check = "9bXiEd8boQVhq7WddEcERUL5tyyJVFYdU8th3HfbNXK3Yw6GRXh"
 5. <a id="reference-5"> https://www.ietf.org/rfc/rfc2104.txt</a>
 6. <a id="reference-6"> https://tools.ietf.org/html/rfc5869</a>
 7. <a id="reference-7"> https://github.com/bitcoin/bips/blob/master/bip-0324.mediawiki</a>
-```
+
 ## 5.1 Channels
 
 The protocol is designed such that downstream devices (or proxies) open communication channels with upstream stratum nodes within established connections.
